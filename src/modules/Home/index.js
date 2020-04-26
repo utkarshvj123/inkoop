@@ -80,7 +80,7 @@ export default class Home extends Component {
       });
     }
   };
-//-----Creating json for table-----//
+  //-----Creating json for table-----//
   creatingJsonForTable = () => {
     let creatingRow = [];
     let newData = {};
