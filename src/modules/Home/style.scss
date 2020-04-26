@@ -1,0 +1,25 @@
+.container {
+  margin: 5% 10% 2% 10%;
+  display: flex;
+}
+
+.dataTables_wrapper.dt-bootstrap4{
+  width: 100%;
+}
+
+
+
+
+.dataTables_filter{
+  label {
+    display: flex;
+    color:black;
+    font-size: larger;
+    font-weight: 600;
+  }
+  input{
+    margin: 0px 0px 20px 26px;
+  }
+ } 
+
+
